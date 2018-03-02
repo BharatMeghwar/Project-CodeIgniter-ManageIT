@@ -1,0 +1,21 @@
+.jumbotron {
+    border: 2px black;
+    background-color: #233D4D;
+    color: white;
+
+}
+
+.project-description {
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0px 0px 3px 1px;
+
+}
+
+
+.task-description {
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0px 0px 3px 1px;
+
+}
