@@ -1,7 +1,3 @@
-# Project-CodeIgniter-ManageIT
-
-
-
 # [ManageIT](https://github.com/goncaloperes/Project-CodeIgniter-ManageIT)
 
 <table>
