@@ -1,4 +1,8 @@
 # [ManageIT](https://github.com/goncaloperes/Project-CodeIgniter-ManageIT)
+[![GitHub Watches](https://img.shields.io/github/watchers/goncaloperes/Project-CodeIgniter-ManageIT.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/goncaloperes/Project-CodeIgniter-ManageIT/watchers)
+[![GitHub Starts](https://img.shields.io/github/stars/goncaloperes/Project-CodeIgniter-ManageIT.svg?style=social&label=Star&maxAge=2592000)](https://github.com/goncaloperes/Project-CodeIgniter-ManageIT/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/goncaloperes/Project-CodeIgniter-ManageIT.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/goncaloperes/Project-CodeIgniter-ManageIT/network)
+
 ![](https://img.shields.io/badge/Version-1.0-blue.svg) 
 ![](https://img.shields.io/badge/License-MIT-green.svg)
 
