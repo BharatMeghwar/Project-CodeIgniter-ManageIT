@@ -1,4 +1,7 @@
 # [ManageIT](https://github.com/goncaloperes/Project-CodeIgniter-ManageIT)
+![](https://img.shields.io/badge/Version-1.0-blue.svg) 
+![](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 <table>
 <tr>
@@ -10,9 +13,6 @@ Management application to keep track of projects and tasks. Built with a PHP fra
 </td>
 </tr>
 </table>
-
-### Version
-1.0
 
 
 ---
